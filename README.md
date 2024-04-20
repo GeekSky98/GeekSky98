@@ -27,6 +27,7 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=Groovy&logoColor=white">
 
 <h3 dir="auto">Operating Systems & Environments</h3>  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white">
@@ -65,6 +66,7 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/Rocket-FF4500?style=flat&logo=Rust&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
 
 <h3 dir="auto">Deep Learning & Machine Learning Frameworks</h3>  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
