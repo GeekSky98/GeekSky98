@@ -28,6 +28,7 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
 <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=Groovy&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=SQL&logoColor=white">
 
 <h3 dir="auto">Operating Systems & Environments</h3>  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white">
@@ -81,6 +82,7 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=ClickUp&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat&logo=Google-Calendar&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
 
 <h3 dir="auto">ETC</h3>  
 <img src="https://img.shields.io/badge/FTP-02569B?style=flat&logo=FTP&logoColor=white">
@@ -96,6 +98,7 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/SAS-1E90FF?style=flat&logo=SAS&logoColor=white">
 <img src="https://img.shields.io/badge/Hadoop-D22128?style=flat&logo=Apache-Hadoop&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
 
 <h3 dir="auto">Future</h3>  
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white">
