@@ -3,7 +3,7 @@
 <div align="center">
 
 # ⚜️Thank you for your visit⚜️
-print("I am a MLOps Engineer working in Korea")  
+print("I am a Data Engineer working in Korea")  
 print("I think computers have infinite possibilities💻")  
 print("So, I will study all the possibilities of computers👨‍💻")
 
