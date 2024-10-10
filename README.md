@@ -16,9 +16,9 @@ print("So, I will study all the possibilities of computers👨‍💻")
 &nbsp;
 <a href="mailto:whgksdnf12155@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.instagram.com/from_hanul_/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/geeksky98/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:hanul.jo@ahha.ai" target="_blank"><img src="https://img.shields.io/badge/Company%20Email-FF4500?style=flat&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hanul-jo-2320aa2b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
 # 🛠️Tech Stack🛠️
 
@@ -27,7 +27,6 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
-<img src="https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=Groovy&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=SQL&logoColor=white">
 
 <h3 dir="auto">Operating Systems & Environments</h3>  
@@ -37,6 +36,8 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
 
 <h3 dir="auto">Databases & Messaging Systems</h3>  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
@@ -48,7 +49,6 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <h3 dir="auto">Pipelines & CI/CD</h3>  
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white">
 
 <h3 dir="auto">Containerization & Orchestration</h3>  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -59,7 +59,6 @@ print("So, I will study all the possibilities of computers👨‍💻")
 
 <h3 dir="auto">IaC & Config Management</h3>  
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=Terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Ansible-000000?style=flat&logo=Ansible&logoColor=white">
 
 <h3 dir="auto">Web Development & APIs</h3>  
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
@@ -106,21 +105,28 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white">
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=Groovy&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Ansible-000000?style=flat&logo=Ansible&logoColor=white">
 
-<h3 dir="auto">Experience & Education</h3>
+# 📚Experience & Education📚
 <ul>
   <li>Bachelor of Big Data Engineering & Bachelor of Smart Healthcare, Soonchunhyang University (March 2017 - February 2021)</li>
   <li>Officer, Republic of Korea Marine Corps (March 2021 - February 2023)</li>
-  <li>DevOps and Solution Engineer, AhhaLabs (April 2023 - Present)</li>
+  <li>Data Engineer, AhhaLabs (April 2023 - September 2024)</li>
 </ul>
 
-<h3 dir="auto">Certificates</h3>
+# 📋Certificates📋
 <ul>
   <li>Data Analysis Associate Professional - ADsP (Korea Data Industry Promotion Agency, September 2020)</li>
   <li>Engineer Information Processing (정보처리기사) (Human Resources Development Service of Korea, November 2023)</li>
   <li>Big Data Analysis Engineer (빅데이터분석기사) (Korea Data Industry Promotion Agency, December 2023)</li>
   <li>AWS Certified Cloud Practitioner CLF-C02 (Amazon Web Services, March 2024)</li>
+  <li>SQLD (SQL 개발자) Korea Data Industry Promotion Agency, June 2024)</li>
 </ul>
+
+# 🧬Baekjoon Algorithm🧬
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geeksky)](https://solved.ac/geeksky/)
 
 # ⚔️Github stats⚔️
 ![GeekSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekSky98&theme=noctis_minimus&show_icons=true)
