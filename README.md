@@ -25,6 +25,7 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <h3 dir="auto">Programming Languages</h3>  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=SQL&logoColor=white">
@@ -62,6 +63,7 @@ print("So, I will study all the possibilities of computers👨‍💻")
 
 <h3 dir="auto">Web Development & APIs</h3>  
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white">
 <img src="https://img.shields.io/badge/RESTfulAPI-000000?style=flat&logo=restfulapi&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -102,7 +104,6 @@ print("So, I will study all the possibilities of computers👨‍💻")
 <h3 dir="auto">Future</h3>  
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white">
 <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=Groovy&logoColor=white">
